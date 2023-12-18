@@ -2,4 +2,4 @@
 
 FRONT-END BASED APPLICATION. MOVIE STREAMING WEBSITE USER INTERFACE CREATED USING HTML,CSS,BOOTSTRAP AND JAVASCRIPT.
 
-website live @https://pavithra026.github.io/Streamflix/
+Live Website https://pavithra026.github.io/Movies-App/
